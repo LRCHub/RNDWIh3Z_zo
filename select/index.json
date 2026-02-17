@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "It's Been Awhile",
+  "base_artist": "Staind",
+  "createdAt": "2026-02-17T11:28:48.363373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Been Awhile (Acoustic Live)",
+      "artist": "Staind",
+      "has_synced": false,
+      "path": "select/01_It's_Been_Awhile_(Acoustic_Live)_Staind.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Been Awhile",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/02_It's_Been_Awhile_Staind.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Been Awhile",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/03_It's_Been_Awhile_Staind.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Been Awhile - Acoustic Version",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/04_It's_Been_Awhile_-_Acoustic_Version_Staind.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Been Awhile (Acoustic Version)",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/05_It's_Been_Awhile_(Acoustic_Version)_Staind.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's Been Awhile - Clean Edit",
+      "artist": "Staind",
+      "has_synced": false,
+      "path": "select/06_It's_Been_Awhile_-_Clean_Edit_Staind.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's Been Awhile (Live at Hiro Ballroom)",
+      "artist": "Staind",
+      "has_synced": false,
+      "path": "select/07_It's_Been_Awhile_(Live_at_Hiro_Ballroom)_Staind.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's been Awhile",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/08_It's_been_Awhile_Staind.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's Been Awhile",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/09_It's_Been_Awhile_Staind.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Been Awhile - Live From Mohegan Sun",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/10_It's_Been_Awhile_-_Live_From_Mohegan_Sun_Staind.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's Been Awhile (Live)",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/11_It's_Been_Awhile_(Live)_Staind.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's Been Awhile",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/12_It's_Been_Awhile_Staind.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's Been Awhile",
+      "artist": "Staind",
+      "has_synced": false,
+      "path": "select/pl_01_It's_Been_Awhile_Staind.txt"
+    }
+  ]
+}
